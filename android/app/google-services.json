@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312433820774",
+    "project_id": "kazyitna",
+    "storage_bucket": "kazyitna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312433820774:android:c39e013908f8a7949999a7",
+        "android_client_info": {
+          "package_name": "com.example.kazity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-_oqLaDS0kTEEix51Rt5-NO0a3L2BiyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
